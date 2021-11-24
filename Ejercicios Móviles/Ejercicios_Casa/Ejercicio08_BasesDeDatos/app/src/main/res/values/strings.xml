@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exercise08_DataBase</string>
+    <string name="main_title">MY COLLECTION</string>
+    <string name="btn_add_title">Add</string>
+    <string name="btn_delete_title">Delete</string>
+    <string name="btn_list_title">Show list</string>
+    <string name="add_title">ADD A NEW ENTRY</string>
+    <string name="update_title">UPDATE ENTRY</string>
+    <string name="delete_title">DELETE AN ENTRY FROM THE LIST</string>
+    <string name="group">Group:</string>
+    <string name="disk">Disk:</string>
+    <string name="btn_update_title">UPDATE</string>
+    <string name="dbName" translatable="false">MiLista</string>
+    <string name="addError">The entry could not be added.</string>
+    <string name="addSuccess">The entry has been added</string>
+    <string name="deleteError">The entry could not be deleted</string>
+    <string name="deleteSuccess">The entry has been deleted</string>
+    <string name="updateError">The entry could not be updated</string>
+    <string name="updateSuccess">The entry has been updated</string>
+    <string name="volver">Back</string>
+</resources>

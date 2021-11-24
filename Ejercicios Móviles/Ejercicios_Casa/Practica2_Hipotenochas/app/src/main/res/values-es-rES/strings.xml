@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica2_Hipotenochas</string>
+    <string name="option1">Instrucciones</string>
+    <string name="option2">Nueva partida</string>
+    <string name="option3">"Ajustes "</string>
+    <string name="suboption1">Fácil</string>
+    <string name="suboption2">Normal</string>
+    <string name="suboption3">Difícil</string>
+    <string name="beluga">Has sido belugeado!</string>
+    <string name="placeholder">Próximamente!</string>
+    <string name="derrota">Has perdido. Las belugas te han dominado...</string>
+    <string name="victoriaEliminatoria">Has ganado. Has destruido todas las belugas!</string>
+    <string name="victoriaPacifica">Has ganado. Has evadido a todas las belugas!</string>
+    <string name="instrucciones">Como jugar: El jugador selecciona una dificultad o selecciona \"Nueva partida\" para generar el tablero. Si el jugador hace click en una casilla donde hay una beluga, pierde. Si el jugador hace un click largo en una casilla donde no hay beluga, pierde. Si el jugador consigue destapar todas las casillas correctas o mata a todas las belugas, gana.</string>
+</resources>

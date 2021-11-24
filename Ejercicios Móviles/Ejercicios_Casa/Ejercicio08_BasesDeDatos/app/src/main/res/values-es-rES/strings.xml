@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio08_BasesDeDatos</string>
+    <string name="main_title">MI COLECCIÓN</string>
+    <string name="btn_add_title">Añadir</string>
+    <string name="btn_delete_title">Eliminar</string>
+    <string name="btn_list_title">Mostrar lista</string>
+    <string name="add_title">AÑADIR UNA NUEVA ENTRADA</string>
+    <string name="group">Grupo:</string>
+    <string name="disk">Disco:</string>
+    <string name="delete_title">ELIMINAR UNA ENTRADA DE LA LISTA</string>
+    <string name="update_title">ACTUALIZAR LA ENTRADA</string>
+    <string name="btn_update_title">ACTUALIZAR</string>
+    <string name="addError">No se ha podido añadir la entrada</string>
+    <string name="addSuccess">Se ha añadido la entrada</string>
+    <string name="deleteError">No se ha podido eliminar la entrada</string>
+    <string name="deleteSuccess">Se ha eliminado la entrada</string>
+    <string name="updateError">No se ha podido actualizar la entrada</string>
+    <string name="updateSuccess">Se ha actualizado la entrada</string>
+    <string name="volver">Volver</string>
+</resources>

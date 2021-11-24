@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="titulo1">Gatete</string>
+    <string name="description">Pues un gatete muy majo llamado Beluga. Un grande si me pregunta.</string>
+    <string name="titulo2">Matias</string>
+    <string name="description2">Pues un cangrejo muy majo llamado Matias. Un grande si me pregunta.</string>
+</resources>

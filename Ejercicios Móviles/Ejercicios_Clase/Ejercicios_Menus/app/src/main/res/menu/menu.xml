@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:Android="http://schemas.android.com/apk/res-auto"
+    tools:context=".Ejercicios_Menus">
+
+    <item
+        android:id="@+id/ajustes"
+        android:title="Ajustes"
+        android:orderInCategory="100"
+        Android:showAsAction="never">
+
+        <menu>
+            <item android:id="@+id/conf_facturas"
+                  android:title="Configuración de facturas"
+                  android:orderInCategory="1"/>
+
+            <item android:id="@+id/conf_pedidos"
+                  android:title="Configuración de pedidos"
+                  android:orderInCategory="2"/>
+
+            <item android:id="@+id/conf_clientes"
+                  android:title="Configuración de clientes"
+                  android:orderInCategory="3"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/clientes"
+        android:title="Clientes"
+        android:orderInCategory="1">
+
+        <menu>
+            <item
+                android:id="@+id/anadir_cliente"
+                android:title="Añadir cliente"
+                android:orderInCategory="1"/>
+            <item
+                android:id="@+id/buscar_cliente"
+                android:title="Buscar cliente"
+                android:orderInCategory="2"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/Facturas"
+        android:title="Facturas"
+        android:orderInCategory="2">
+
+    </item>
+
+
+</menu>

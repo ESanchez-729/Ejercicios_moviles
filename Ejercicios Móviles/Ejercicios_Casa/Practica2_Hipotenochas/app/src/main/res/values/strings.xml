@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica2_Hipotenochas</string>
+    <string name="option1">Instructions</string>
+    <string name="option2">New game</string>
+    <string name="option3">Settings</string>
+    <string name="suboption1">Easy</string>
+    <string name="suboption2">Normal</string>
+    <string name="suboption3">Hard</string>
+    <string name="beluga">You have been beluged!</string>
+    <string name="placeholder">Coming soon. Stay tuned!</string>
+    <string name="derrota">You lose. The belugas dominated you...</string>
+    <string name="victoriaEliminatoria">You win. You have destroyed the belugas!</string>
+    <string name="victoriaPacifica">You win. You have evaded all the belugas!</string>
+    <string name="instrucciones">How to play:  The player selects a difficulty or selects New Game to generate the board.  If the player clicks on a square that is a beluga, he loses.  If the player makes a long click on a square where there is no beluga, he loses.  If the player succeeds in uncovering the correct squares or kills all the belugas, he wins.</string>
+</resources>

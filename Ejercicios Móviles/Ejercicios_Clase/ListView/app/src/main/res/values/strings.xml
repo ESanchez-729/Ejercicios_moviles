@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="asturias">Asturias</string>
+    <string name="galicia">Galicia</string>
+    <string name="cantabria">Cantabria</string>
+    <string name="navarra">Navarra</string>
+    <string name="aragon">Aragón</string>
+    <string name="elige">Elige: </string>
+</resources>

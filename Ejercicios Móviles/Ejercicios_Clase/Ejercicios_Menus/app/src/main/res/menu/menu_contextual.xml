@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:title="Seleccionar todo"
+    android:id="@+id/matar"></item>
+
+    <item
+    android:title="Copiar"
+    android:id="@+id/sanar"></item>
+
+    <item
+    android:title="Compartir"
+    android:id="@+id/enviarmensaje"></item>
+
+</menu>
