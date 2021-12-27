@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ingredientes">
+
+        <item>Patatas</item>
+        <item>Tomate</item>
+        <item>Sal</item>
+        <item>Jamon</item>
+        <item>Queso</item>
+
+    </string-array>
+</resources>
